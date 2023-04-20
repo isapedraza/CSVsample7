@@ -1,9 +1,14 @@
 # CSVsample7
 Sample de datos abiertos del CMS para educación. 
+
 Variable	Description
+
 Run	The run number of the event.
+
 Event	The event number.
+
 E,px,py,pz	For a lepton, either a muon or an electron, the total energy and components of the momemtum (in GeV).
+
 pt	The transverse momentum of the lepton (in units of GeV), either a muon or an electron.
 eta	The pseudorapidity of the lepton, either a muon or an electron.
 phi	The phi angle (in radians) of the lepton, either a muon or an electron.
